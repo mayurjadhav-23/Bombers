@@ -1,4 +1,4 @@
-# Bombers
+# Report on Bomber Tools
 ### Tool 1: SMS Bomb by Samay
 **Repository:** [GitHub - Sms-Bomb](https://github.com/samay825/Sms-Bomb)  
 **Description:** An SMS bombing tool designed to send a large volume of SMS messages to a target number.  
